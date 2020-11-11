@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%
+}
+
+.header:hover{
+  cursor: pointer;
+}
+
+.name{
+  font-size: 50px;
+  font-family: 'Nanum Pen Script', cursive;
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+a{
+  font-family: 'Open Sans', sans-serif;
+  color: #008000;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #50C878;
+}
+
+.home{
+  margin-top: 5px;
+  display: inline-grid;
+  padding-right: 20px;
+}
+
+.about{
+  margin-top: 5px;
+  display: inline-grid;
+  padding-right: 20px;
+}
+
+.contact{
+  margin-top: 5px;
+  display: inline-grid;
+}
+
+.footer{
+  font-family: 'Nanum Pen Script', cursive;
+  padding-top: 100px;
+  bottom: 0;
+  width: 100%;
+}
+
+.social{
+  bottom: 0;
+  height: 50px;
+}

@@ -1,0 +1,52 @@
+.conimg{
+  padding-top: 50px;
+}
+
+.contacttext{
+  padding-bottom: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.mailid{
+  font-size: 16px;
+}
+
+textarea{
+  resize: none;
+}
+
+form{
+  margin-top: 50px;
+}
+
+.form-control{
+  font-family: 'Open Sans', sans-serif;
+  width: 600px;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+input{
+  height: 45px;
+}
+
+form .submit{
+  background: #00FFFF;
+  border-color: transparent;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  height: 50px;
+  margin-top: 20px;
+}
+
+form .submit:hover{
+  background-color: lightblue;
+  cursor: pointer;
+}
